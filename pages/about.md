@@ -5,6 +5,12 @@ headshot: /assets/img/headshot.webp
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# Ji Jin (Jack) Chen
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+- 👋 Hi, welcome to my Github. My name is Jack @jijinjc
+- 👀 I’m interested in Geographic Information Science, specifically in agriculture, public transportation, and heath GIS
+- 🌱 I’m currently studying at the University of Pennsylvania in the Masters in Urban Spatial Analytics program. I graduated from the University of Illinois at Urbana-Champaign in Geographic Information Science
+- 💞️ I’m looking to collaborate in the future.
+- 📫 How to reach me: jackjijin.chen@gmail.com
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: As an undergrad I was the third place of the American Association of Geography's Remote Sensing Specialty Group's Student Illustrated Paper Competition.
