@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About Me
-headshot: /assets/img/headshot.webp
+headshot: assets/img/Weixin Image_20240826114854.jpg
 permalink: /about
 ---
 
